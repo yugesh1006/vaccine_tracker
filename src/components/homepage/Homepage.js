@@ -10,7 +10,7 @@ const Homepage = ({fname,lname,pincode,setFname,setLname,fetchData,setPincode,co
     const handleSubmit=(e)=>{
         e.preventDefault();
         fetchData();
-        history.push("/vaccine_information");
+        history.push("/vaccine_tracker/vaccine_information");
 
         
     }

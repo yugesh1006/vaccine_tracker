@@ -8,7 +8,7 @@ const Details = (content,{fetchData}) => {
     const name= localStorage.getItem("fname")+localStorage.getItem("lname");
     let history =useHistory();
     const handleBack=()=>{
-        history.push("/")
+        history.push("/vaccine_tracker/")
     }
 
     return (

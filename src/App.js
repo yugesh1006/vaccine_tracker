@@ -33,7 +33,7 @@ function App() {
     <BrowserRouter>
       <div className="app">
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/vaccine_tracker/">
           <Homepage
             fname={fname}
             setFname={setFname}
@@ -45,7 +45,7 @@ function App() {
             content={content}
           />
         </Route>
-        <Route exact path="/vaccine_information">
+        <Route exact path="/vaccine_tracker/vaccine_information">
           <Details 
           content={content} 
           pincode={pincode}
