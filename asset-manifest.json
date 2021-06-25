@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vaccine_tracker/static/css/main.d3ddc230.chunk.css",
+    "main.js": "/vaccine_tracker/static/js/main.95cda2bb.chunk.js",
+    "main.js.map": "/vaccine_tracker/static/js/main.95cda2bb.chunk.js.map",
+    "runtime-main.js": "/vaccine_tracker/static/js/runtime-main.d602c7c6.js",
+    "runtime-main.js.map": "/vaccine_tracker/static/js/runtime-main.d602c7c6.js.map",
+    "static/js/2.7e832524.chunk.js": "/vaccine_tracker/static/js/2.7e832524.chunk.js",
+    "static/js/2.7e832524.chunk.js.map": "/vaccine_tracker/static/js/2.7e832524.chunk.js.map",
+    "static/js/3.e5bfce70.chunk.js": "/vaccine_tracker/static/js/3.e5bfce70.chunk.js",
+    "static/js/3.e5bfce70.chunk.js.map": "/vaccine_tracker/static/js/3.e5bfce70.chunk.js.map",
+    "index.html": "/vaccine_tracker/index.html",
+    "static/css/main.d3ddc230.chunk.css.map": "/vaccine_tracker/static/css/main.d3ddc230.chunk.css.map",
+    "static/js/2.7e832524.chunk.js.LICENSE.txt": "/vaccine_tracker/static/js/2.7e832524.chunk.js.LICENSE.txt",
+    "static/media/Covid Background.951dc4c1.png": "/vaccine_tracker/static/media/Covid Background.951dc4c1.png",
+    "static/media/Mapsense Logo.eec68b4b.png": "/vaccine_tracker/static/media/Mapsense Logo.eec68b4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d602c7c6.js",
+    "static/js/2.7e832524.chunk.js",
+    "static/css/main.d3ddc230.chunk.css",
+    "static/js/main.95cda2bb.chunk.js"
+  ]
+}
